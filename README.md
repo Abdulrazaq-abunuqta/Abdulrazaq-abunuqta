@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdulrazaq Abu Nuqta 👋</h1>
-<h3 align="center">A passionate software developer from syria, I live in egybt, recently joined Kalbonyan-Elmarsos intern</h3>
+<h3 align="center">A passionate software developer from syria, I live in egybt, recently joined Kalbonyan-Elmarsos </h3>
 - 🔭 I’m currently working on **Full Stack Web Development
  
 <p align="center">
