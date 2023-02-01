@@ -6,7 +6,7 @@
     <h3 align="center">Connect with me:</h3>
     <a href="https://twitter.com/abunuqta"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/abdul-razaq-abu-nuqta"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://t.me/Burnt_Frost5"><h3>telegram</h3></a>
+    <a href="https://t.me/Burnt_Frost5">telegram</a>
   </p>
   
   <img src="https://github.com/Abdulrazaq-abunuqta/icon/blob/main/cat-program.jpg" align="right" width="25%"/>
