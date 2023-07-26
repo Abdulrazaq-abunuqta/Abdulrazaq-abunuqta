@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm , <img src="https://github.com/Abdulrazaq-abunuqta/Kalbonyan-Elmarsos/blob/main/CV/logo-abdo.png" width="350" height="200" />
+<h1 align="center">Hi, I'm , <img src="https://github.com/Abdulrazaq-abunuqta/Kalbonyan-Elmarsos/blob/main/CV/logo-abdo.png" />
  👋</h1>
 <h3 align="center">I work as a Front-End developer and have experience in WordPress, HTML, CSS, React, and the MERN Stack. I am a computer engineer, graduating with honors in 2017. I am eager to continue learning and expanding my knowledge and experience in the field of software development, demonstrating my commitment to continuous professional growth. By staying updated with the latest trends and technologies in the industry, I can enhance my skills and contribute to building innovative and user-friendly applications. </h3>
      <div align="center">
